@@ -1,5 +1,5 @@
 import { Link, NavLink } from "react-router-dom";
-import MainBtn from "./MainBtn";
+import MainBtn from "../others/MainBtn";
 
 const Nav = () => {
     const link = <>
